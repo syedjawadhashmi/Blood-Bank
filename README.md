@@ -2,7 +2,7 @@
 
 #A React Web App using
 
-React, Es6, Material UI , RxJS, Redux, and Firebase and Webpack
+React, Es6, Material UI , RxJS, Redux-Observable, and Firebase and Webpack
 
 live Demo at
 
