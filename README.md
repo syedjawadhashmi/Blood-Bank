@@ -1,4 +1,12 @@
-# Campus-Recruitment-System-
-A College Campus Recruitment System
+Panacloud Blood Bank System
 
-Live at https://sj-react-2.firebaseapp.com
+A React Web App using
+
+React, Es6, Material UI , RxJS, Redux, and Firebase and Webpack
+
+live Demo
+
+https://panacloudbloodbank.firebaseapp.com/
+
+User Email : user@user.com
+Password : 123123
